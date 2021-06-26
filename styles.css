@@ -1,0 +1,57 @@
+#title {background-color: #ff4c68;}
+.container-fluid{padding: 3% 15%;}
+
+
+/* Text */
+h3 {font: Montserrat; font-size: 1.5rem}
+h2 {font-style: Montserrat-bold; font-size: 3rem; line-height: 1.5}
+
+
+/* Navbar */
+.navbar {color: white; font-size: 10p}
+.navbar-brand {font-size:60px; color: white; font-weight: bold; margin-left: 0px}
+
+
+/* Features */
+#features {padding: 7% 15%; background-color: #fff; position: relative;;z-index: 1}
+.feature-image {position: absolute; width: 10%; z-index: 0}
+.feature-box {text-align: center; padding: 8%;}
+
+.icon {color: #ef8172; padding-bottom: 20px;}
+.icon:hover {color:#ff4c68; }
+
+/* testimonials*/
+#testimonials {
+
+  background-color: #ef8172;
+  text-align: center;
+  color: #fff;
+}
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+.carousel-item {
+  padding: 7% 15%;
+}
+
+
+/* press */
+#press {
+  background-color: #ef8172;
+  padding-bottom: 7%;
+  text-align: center;
+}
+
+.press-image {
+  width: 13%;
+  margin: 30px 50px 30px;
+}
+
+
+
+
+/* Pricing */
+
+#pricing {padding: 100px;text-align: center;}
